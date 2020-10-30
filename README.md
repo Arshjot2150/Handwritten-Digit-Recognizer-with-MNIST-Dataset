@@ -1,0 +1,2 @@
+# Handwritten Digit Recognizer with MNIST Dataset
+ This is a Convolutional Neural Network which is trained on a dataset of 60,000 (28×28 pixel) Grayscale images of handwritten single digits between 0 and 9. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9. This model was able to learn most of the patterns in those digits with an accuracy of 98.44% on totally unseen data.
